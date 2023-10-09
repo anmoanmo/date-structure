@@ -18,5 +18,11 @@
     <ClCompile Include="一元二次方程.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="work1.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="关闭流同步.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
